@@ -1,3 +1,5 @@
 # 지도
 
-## 구글 맵 사용하는 연습하기
+## Google Maps api
+## `React.js`
+
